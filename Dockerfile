@@ -1,6 +1,4 @@
 # Docker container with metasploit.
-#
-# Use Kali Linux base image (2.0)
 FROM goffinet/kali-base
 MAINTAINER Francois Goffinet "goffinet@goffinet.org"
 
